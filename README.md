@@ -16,3 +16,5 @@ This line was added in my second commit.
 ## New Feature
 
 This section was added on a feature branch and merged through a pull request.
+
+This line was added in my second pull request.
