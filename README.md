@@ -12,3 +12,7 @@ Here is a list:
 For more information about Markdown syntax, see the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 
 This line was added in my second commit.
+
+## New Feature
+
+This section was added on a feature branch and merged through a pull request.
